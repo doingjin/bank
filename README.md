@@ -1,2 +1,2 @@
 # bank
-bank transfer
+bank transfer (transation)
